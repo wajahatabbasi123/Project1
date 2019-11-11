@@ -81,18 +81,16 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Mahad
+                    <br>
+                    FA17-BSE-111
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://vapor.laravel.com">Vapor</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="page1.html">Page 1</a>
+                    <a href="page2.html">Page 2</a>
+                    <a href="yeild.html">Yield</a>
+                    <a href="https://github.com/Mahadhere/Project1">My GitHub</a>
                 </div>
             </div>
         </div>
